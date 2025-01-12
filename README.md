@@ -4,6 +4,11 @@
  <img src="docs/desktop-home-readme.png" alt="Desktop View" width="800"/>
 </div>
 
+## 🌐 Demo
+
+- Wersja Live: [FoodFinder App](https://paruut.github.io/Food-Finder/)
+- Repozytorium: [GitHub](https://github.com/paruut/Food-Finder)
+
 ## 📱 Responsive Design
 
 Aplikacja została zaprojektowana z myślą o różnych urządzeniach, zapewniając idealne dopasowanie zarówno na komputerach stacjonarnych, tabletach jak i telefonach komórkowych. Dzięki zastosowaniu nowoczesnych technik RWD (Responsive Web Design) i frameworka TailwindCSS, interfejs automatycznie dostosowuje się do rozmiaru ekranu, zachowując pełną funkcjonalność i estetykę na każdym urządzeniu.
