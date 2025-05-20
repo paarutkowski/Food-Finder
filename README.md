@@ -6,8 +6,8 @@
 
 ## 🌐 Demo
 
-- Wersja Live: [FoodFinder App](https://paruut.github.io/Food-Finder/)
-- Repozytorium: [GitHub](https://github.com/paruut/Food-Finder)
+- Wersja Live: [FoodFinder App](https://paarutkowski.github.io/Food-Finder/)
+- Repozytorium: [GitHub](https://github.com/paarutkowski/Food-Finder)
 
 ## 📱 Responsive Design
 
@@ -147,7 +147,7 @@ http://localhost:5173
 ## 👨‍💻 Autor
 
 **Patryk Rutkowski**
-- GitHub: [@paruut](https://github.com/paruut)
+- GitHub: [@paruut](https://github.com/paarutkowski)
 - Index: 160562
 
 
